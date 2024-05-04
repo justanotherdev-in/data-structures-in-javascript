@@ -28,5 +28,5 @@ This repository contains Data Structures implementation using Javascript.
 
 # Doubly Linked List
 
-* [Singly Linked List implementation](doubly-linked-list/doubly-linked-list.js)
+* [Doubly Linked List implementation](doubly-linked-list/doubly-linked-list.js)
 
