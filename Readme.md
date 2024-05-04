@@ -6,27 +6,27 @@ This repository contains Data Structures implementation using Javascript.
 
 ## Data Structures
 
-# Object
+### Object
 
 * [Object](object.js)
 
-# Array
+### Array
 
 * [Array](array.js)
 
-# Map
+### Map
 
 * [Map](map.js)
   
-# Set
+### Set
 
 * [Set](set.js)
 
-# Singly Linked List
+### Singly Linked List
 
 * [Singly Linked List implementation](linked-list/linked-list.js)
 
-# Doubly Linked List
+### Doubly Linked List
 
 * [Doubly Linked List implementation](doubly-linked-list/doubly-linked-list.js)
 
