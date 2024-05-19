@@ -51,8 +51,10 @@ LinkedList.prototype.deleteAtIndex = function(index) {
         i++;
     }
 
+    const nodeToDelete = pre.next;
     pre.next = pre.next.next;
     this.size -= 1;
+    return nodeToDelete;
 }
 
 LinkedList.prototype.getNodeAtIndex = function(index) {
@@ -67,7 +69,7 @@ LinkedList.prototype.getNodeAtIndex = function(index) {
         i++;
     }
 
-    return pre.value;
+    return pre;
 }
 
 exports.LinkedList = LinkedList
